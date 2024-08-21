@@ -28,7 +28,6 @@ A Min Heap is a complete binary tree. A Min Heap is usually represented as an ar
 
 ![image](https://github.com/user-attachments/assets/81548281-8f62-415a-92cf-4a8ca0548bc2)
 
-   
 # Output:
 
 ![image](https://github.com/user-attachments/assets/c4a3a281-0141-43b5-919f-80972de0e76c)
