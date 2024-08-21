@@ -6,6 +6,7 @@ A min heap is a specialized tree-based data structure that satisfies the heap pr
 Mapping the elements of a heap into an array is trivial: if a node is stored at index **k** , its **left child** is stored at index   **2k+1**  and the right **child** is stored at index **2k+2**  for **0-based indexing** , **and for 1** - based  **indexing** , the left child is at  **2k** and the right child is at  **2k+1**.
 
 # Min-heap example: 
+![image](https://github.com/user-attachments/assets/627f253b-477c-4184-9353-ec5ca1da4810)
 
 # How is a Min Heap represented?
 
