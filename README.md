@@ -36,3 +36,5 @@ We use  the heapq  class to implement Heaps in Python. By default, a min heap is
 ![image](https://github.com/user-attachments/assets/cbc6dde3-9883-4b72-97f1-4c615d8bf49c)
 
 # Output: 
+
+![image](https://github.com/user-attachments/assets/a3ad196a-a125-4263-ba35-ae16e1a660fb)
