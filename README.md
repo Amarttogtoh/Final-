@@ -12,7 +12,9 @@ Mapping the elements of a heap into an array is trivial: if a node is stored at 
 
 A Min Heap is a complete binary tree. A Min Heap is usually represented as an array. The root element will be at  **Arr[0]**. For any i nodes,  **Arr[i]** :
 •	**Arr[(i -1) / 2]**  returns its parent node.
+
 •	**Arr[(2 * i) + 1]**  returns its left child.
+
 •	**Arr[(2 * i) + 2]**  returns its right child.
 
 # Operations on the minimum heap:
