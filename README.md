@@ -22,8 +22,7 @@ A Min Heap is a complete binary tree. A Min Heap is usually represented as an ar
 
    Following is the implementation of Min Heap in Python –
    
-![image](https://github.com/user-attachments/assets/af24db06-baca-4216-ad88-1f2e2e824c4a)
-![image](https://github.com/user-attachments/assets/81d31156-f97f-4b30-a6b6-1dca01423676)
+![image](https://github.com/user-attachments/assets/c5ab0133-4ce5-488d-b280-1e30b13dbcb2)
 
 
    
