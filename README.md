@@ -21,7 +21,10 @@ A Min Heap is a complete binary tree. A Min Heap is usually represented as an ar
 3.	**insert()** : Inserting a new key takes  **O(Log n)**  time. We add a new key at the end of the tree. If the new key is greater than its parent key, we don't need to do anything. Otherwise, we need to traverse to fix the violated heap property.
 
    Following is the implementation of Min Heap in Python –
+   
 ![image](https://github.com/user-attachments/assets/af24db06-baca-4216-ad88-1f2e2e824c4a)
+![image](https://github.com/user-attachments/assets/81d31156-f97f-4b30-a6b6-1dca01423676)
+
 
    
 # Output:
